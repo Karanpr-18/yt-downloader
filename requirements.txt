@@ -1,0 +1,4 @@
+streamlit>=1.30
+yt-dlp>=2024.3.10
+imageio-ffmpeg>=0.4.9
+static-ffmpeg>=2.6
