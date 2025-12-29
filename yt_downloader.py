@@ -308,7 +308,7 @@ st.markdown("""
 # 5. Header
 st.markdown("""
     <div class="header-container">
-        <h1 class="main-title">Universal Downloader</h1>
+        <h1 class="main-title">Universal YT Downloader</h1>
         <div class="subtitle">✨ Premium Video & Audio Extraction</div>
     </div>
 """, unsafe_allow_html=True)
